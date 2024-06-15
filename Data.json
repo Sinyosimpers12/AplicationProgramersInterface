@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "judul": "Hudaibi",
+    "catatan": "Discuss project milestones.",
+    "nomorkamar": 1,
+    "tanggal": "2024-06-15",
+    "jenisKelamin": "Laki-laki",
+    "tanggalKeluar": "2024-06-16",
+    "isDeleted": false
+  },
+  {
+    "id": 2,
+    "judul": "Mtia",
+    "catatan": "Buy groceries and household items.",
+    "nomorkamar": 2,
+    "tanggal": "2024-06-15",
+    "jenisKelamin": "Perempuan",
+    "tanggalKeluar": "2024-06-17",
+    "isDeleted": false
+  }
+]
